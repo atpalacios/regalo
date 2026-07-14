@@ -33,7 +33,7 @@ body::before{
     right:-2px;
     bottom:-2px;
     z-index:-1;
-    background:linear-gradient(180deg,#ff8800,#aa835f);
+    background:linear-gradient(180deg,#d400ff,#c7b7b7);
 }
 
 .container{
